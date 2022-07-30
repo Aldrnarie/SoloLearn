@@ -1,4 +1,4 @@
-# SoloLearn
-My SoloLearn Exercises and Qualifications
+# Training Exercises
+My Exercises and Qualifications
 
-These are my exercises amd qual;ifications for my experience
+These are my exercises amd qualifications for my experience
